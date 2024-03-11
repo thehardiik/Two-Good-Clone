@@ -5,6 +5,8 @@ Two Good Clone is an award winning website , which is mentioned on on Awwwards.c
 
 I tried to clone down this beautifull website , I also cloned all the beautifull animations this website is composed of.
 
+Link :- https://thehardiik.github.io/Two-Good-Clone/
+
 
 
 
